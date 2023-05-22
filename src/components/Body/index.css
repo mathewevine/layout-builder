@@ -1,0 +1,15 @@
+.body-container {
+  display: flex;
+}
+
+.leftnavdiv {
+  flex-grow: 1;
+}
+
+.contentdiv {
+  flex-grow: 1;
+}
+
+.rightnavdiv {
+  flex-grow: 1;
+}
